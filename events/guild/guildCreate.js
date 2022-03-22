@@ -14,7 +14,7 @@ module.exports = async (client, guild) => {
    * @INFO
    * Work for Syntax Codes | https://bit.ly/Web_Syntax
    * @INFO
-   * Please mention Him / Syntax Codes, when using this Code!
+   * Please mention Him / Syntax Codes Inc., when using this Code!
    * @INFO
    */
 }

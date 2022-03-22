@@ -39,11 +39,11 @@ const Enmap = require("enmap")
 client.settings = new Enmap({name: "settings", dataDir: "./database/settings"})
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://github.com/Tomato6966/Discord-Js-Handler-Template
+  * Bot Coded by SyntaxError The Dev 💜#3044 | https://github.com/Ghanendra56
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Syntax Codes Inc. | https://bit.;y/Web_Syntax
   * @INFO
-  * Please mention Him / Milrato Development, when using this Code!
+  * Please mention Him / Syntax Codes Inc., when using this Code!
   * @INFO
 */
 
