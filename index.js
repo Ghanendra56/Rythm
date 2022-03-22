@@ -1,14 +1,3 @@
-const express = require('express')
-const app = express();
-const port = 3000
-
-app.get('/', (req, res) => res.send('Bot is now running!!'))
-
-app.listen(port, () =>
-console.log(`Your app is listening a http://localhost:${port}`)
-);
-
-
 const Discord = require("discord.js"); //this is the official discord.js wrapper for the Discord Api, which we use!
 const colors = require("colors"); //this Package is used, to change the colors of our Console! (optional and doesnt effect performance)
 const fs = require("fs"); //this package is for reading files and getting their inputs
