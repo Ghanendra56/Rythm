@@ -16,6 +16,6 @@ Contributions to Dude Perfect are always appreciated, whether it be improvements
 
   <strong><i> Made with  💜 by
 
-  [**SyntaxError The Dev**](https://github.com/Ghanendra56) • 
+  [**SyntaxError The Dev**](https://github.com/Ghanendra56) • [**Utkarsh Nigam**](https://github.com/WEBXTheDev)
 </i></strong>
 </div>
