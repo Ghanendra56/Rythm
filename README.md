@@ -13,7 +13,7 @@ I wouldn't recommend it. Self-hosting this bot (running a copy yourself) is not 
 ## **Contributing**
 Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. Contact our developers in  [**Discussions**](https://github.com/Ghanendra56/Rythm/discussions), if required. Also, make sure to have look at our [Pull Request Template](https://github.com/Ghanendra56/Rythm/blob/main/PULL_REQUEST_TEMPLATE.md).
 
-
+<div align="center">
   <strong><i> Made with  💜 by
 
   [**SyntaxError The Dev**](https://github.com/Ghanendra56) • [**Utkarsh Nigam**](https://github.com/WEBXTheDev)
