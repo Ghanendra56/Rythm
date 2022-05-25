@@ -14,13 +14,7 @@ I wouldn't recommend it. Self-hosting this bot (running a copy yourself) is not 
 Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. Contact our developers in  [**Discussions**](https://github.com/Ghanendra56/Rythm/discussions), if required. Also, make sure to have look at our [Pull Request Template](https://github.com/Ghanendra56/Rythm/blob/main/PULL_REQUEST_TEMPLATE.md).
 
 <div align="center">
-`   _____  __     __ _______  _    _  __  __ 
-|  __ \ \ \   / /|__   __|| |  | ||  \/  |
-| |__) | \ \_/ /    | |   | |__| || \  / |
-|  _  /   \   /     | |   |  __  || |\/| |
-| | \ \    | |      | |   | |  | || |  | |
-|_|  \_\   |_|      |_|   |_|  |_||_|  |_|`
-                                          
+
                                           
 
   <strong><i> Made with  💜 by
