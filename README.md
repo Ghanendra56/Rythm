@@ -1,4 +1,4 @@
-# ***Rythm*** [![Discord](https://discord.com/api/guilds/748808130946793483/embed.png)](https://discord.gg/ZzbZpdw)
+# ***Rythm*** [![Discord](https://discord.com/api/guilds/950734695346348113/embed.png)](https://bit.ly/syntaxcodes)
 **Rythm** is just another Discord music bot. Rythm can do most of the things which which had been done by the Actyal Rythm. We are currently focused on certain modules for each version. Here, we make it our passion to provide you the best Discord music bot ever with all awesome features.
 
 ## **Resources**
