@@ -11,7 +11,7 @@ Feel free to open an issue with your bug report or feature request, with as many
 I wouldn't recommend it. Self-hosting this bot (running a copy yourself) is not supported, and no help will be provided for editing nor compiling the code in this repository. The source code is provided here for transparency about how the bot's primary features work. If you decide to edit, compile, or use this code in any way, please respect the [**license**](https://github.com/Ghanendra56/Rythm/blob/main/LICENSE).
 
 ## **Contributing**
-Contributions to **Rythm** are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. Contact our developers in  [**Discussions**](https://github.com/Ghanendra56/Rythm/discussions), if required. Also, make sure to have look at our [Pull Request Template](https://github.com/Ghanendra56/Rythm/blob/main/PULL_REQUEST_TEMPLATE.md).
+Contributions to **name** are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. Contact our developers in  [**Discussions**](https://github.com/Ghanendra56/Rythm/discussions), if required. Also, make sure to have look at our [Pull Request Template](https://github.com/Ghanendra56/Rythm/blob/main/PULL_REQUEST_TEMPLATE.md).
 
 <div align="center">
 
