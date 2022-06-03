@@ -19,6 +19,6 @@ Contributions to **name** are always appreciated, whether it be improvements to 
 
   <strong><i> Made with  💜 by
 
-  [**SyntaxError The Dev**](https://github.com/Ghanendra56) • [**Utkarsh Nigam**](https://github.com/WEBXTheDev)
+  [**SyntaxError The Dev**](https://github.com/Ghanendra56) • [**Utkarsh Nigam**](https://github.com/WEBXTheDev) • [**Arijit Debnath**](https://github.com/ArijitTheDev)
 </i></strong>
 </div>
